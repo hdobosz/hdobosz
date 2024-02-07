@@ -9,7 +9,7 @@ As an experienced Python developer with over a year of professional experience, 
    <a href="https://github.com/hdobosz/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdobosz&layout=compact"/></a>
 </p>
-
+<hr>
 <p align='center'>
    <a href="https://www.linkedin.com/in/holger-dobosz/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
