@@ -25,6 +25,7 @@ As an experienced Python developer with over a year of professional experience, 
 
 
 ## 🛠 Technology Stack
+<a href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 
 ### My opensource projects
