@@ -1,7 +1,6 @@
 ### Hi, I'm Holger 👋
 
-A software engineer with more than 1 years of professional experience. I have excellent knowledge of backend Python development.
-In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.
+As an experienced Python developer with over a year of professional experience, I possess excellent knowledge of backend development. My expertise spans monolithic, microservice, and serverless architectures. Much of my activity is within the realm of open source, where I actively contribute to various projects. My experiences in the open-source community have not only helped me continuously improve my skills but also fostered a broad understanding of best practices and development processes.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=hdobosz3&show_icons=true&count_private=true"><img
