@@ -20,7 +20,7 @@ As an experienced Python developer with over a year of professional experience, 
    📫 How to reach me: <a href='mailto:hdobosz@freenet.de'>hdobosz@freenet.de</a>
 </p>
 
-
+<hr>
 ### Key points
 
 
