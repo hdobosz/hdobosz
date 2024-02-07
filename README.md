@@ -31,7 +31,6 @@ As an experienced Python developer with over a year of professional experience, 
 <a href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge">
 </a>
-
 <a href="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira Badge">
 </a>
@@ -179,13 +178,11 @@ As an experienced Python developer with over a year of professional experience, 
 <a href="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom Badge">
 </a>
-
 <hr>
-
-
 ### My opensource projects
 
 <hr>
+
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/hdobosz/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=hdobosz&color=DE002D">
