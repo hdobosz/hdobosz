@@ -27,7 +27,8 @@ As an experienced Python developer with over a year of professional experience, 
 
 ### Key points
 
-<iframe src="https://www.canva.com/design/DAF6ypg_hYM/Q8nUIZ6eIkR0sxBNFzYfPw/edit?utm_content=DAF6ypg_hYM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" height="600px" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<img src="Project_X.png" alt="Slide Screenshot">
+
 
 ---
 
