@@ -1,7 +1,9 @@
 ### Hi, I'm Holger 👋
 
 As an experienced Python developer with over a year of professional experience, I possess excellent knowledge of backend development. My expertise spans monolithic, microservice, and serverless architectures. Much of my activity is within the realm of open source, where I actively contribute to various projects. My experiences in the open-source community have not only helped me continuously improve my skills but also fostered a broad understanding of best practices and development processes.
-<hr>
+
+---
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=hdobosz3&show_icons=true&count_private=true"><img
            height=150
@@ -9,24 +11,26 @@ As an experienced Python developer with over a year of professional experience, 
    <a href="https://github.com/hdobosz/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdobosz&layout=compact"/></a>
 </p>
-<hr>
+
+---
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/holger-dobosz/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   
-   </a>
+</p>
+
 <p align='center'>
    📫 How to reach me: <a href='mailto:hdobosz@freenet.de'>hdobosz@freenet.de</a>
 </p>
 
-<hr>
+---
+
 ### Key points
 
 <iframe src="https://www.canva.com/design/DAF6ypg_hYM/Q8nUIZ6eIkR0sxBNFzYfPw/edit?utm_content=DAF6ypg_hYM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" height="600px" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+---
 
-
-<hr>
 
 
 ## 🛠 Technology Stack
