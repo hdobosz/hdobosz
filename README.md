@@ -27,17 +27,6 @@ As an experienced Python developer with over a year of professional experience, 
 
 
 ### Key Points
-
-- **Professional Summary:** An aspiring Python developer with comprehensive training in various aspects of software development, including:
-  - Fundamentals 
-  - Python 
-  - Databases 
-  - Frameworks 
-  - Application Programming Interfaces 
-  - Cloud Services 
-  - Final Capstone Project 
-- **Language Skills:** Completed a language course in English. 
-- **Achievements:** Successfully completed the final capstone projects "Mint Easy / Project X" as part of the training program.
   
 <img src="Overview.png" alt="Slide Screenshot">
 
