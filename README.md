@@ -28,14 +28,14 @@ As an experienced Python developer with over a year of professional experience, 
 ### Key Points
 
 - **Professional Summary:** An aspiring Python developer with comprehensive training in various aspects of software development, including:
-  - Fundamentals – 104 hours
-  - Python – 496 hours
-  - Databases – 184 hours
-  - Frameworks – 88 hours
-  - Application Programming Interfaces – 88 hours
-  - Cloud Services – 112 hours
-  - Final Capstone Project – 168 hours.
-- **Language Skills:** Completed a language course in English, totaling 200 hours. 
+  - Fundamentals 
+  - Python 
+  - Databases 
+  - Frameworks 
+  - Application Programming Interfaces 
+  - Cloud Services 
+  - Final Capstone Project 
+- **Language Skills:** Completed a language course in English. 
 - **Achievements:** Successfully completed the final capstone projects "Mint Easy / Project X" as part of the training program.
 
 
