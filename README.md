@@ -191,6 +191,7 @@ As an experienced Python developer with over a year of professional experience, 
 </a>
 
 <hr>
+
 ### Example for a  project
 
 <img src="Project_X.png" alt="Slide Screenshot">
