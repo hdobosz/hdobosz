@@ -177,6 +177,10 @@ As an experienced Python developer with over a year of professional experience, 
 <a href="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom Badge">
 </a>
+<a href="https://meet.jit.si/" target="_blank">
+  <img src="https://img.shields.io/badge/Join%20Jitsi-Video%20Meeting-9cf" alt="Jitsi Badge">
+</a>
+
 <hr>
 ### My opensource projects
 
