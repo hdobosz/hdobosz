@@ -20,7 +20,7 @@ As an experienced Python developer with over a year of professional experience, 
 </p>
 
 <hr>
-### Key points
+## Key points
 
 <hr>
 
