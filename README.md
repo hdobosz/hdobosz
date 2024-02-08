@@ -23,7 +23,7 @@ As an experienced Python developer with over a year of professional experience, 
    📫 How to reach me: <a href='mailto:hdobosz@freenet.de'>hdobosz@freenet.de</a>
 </p>
 
-<hr style="color: black;">
+<hr>
 
 
 ### Key Points
@@ -40,7 +40,7 @@ As an experienced Python developer with over a year of professional experience, 
 - **Achievements:** Successfully completed the final capstone projects "Mint Easy / Project X" as part of the training program.
 
 
-<hr style="color: black;">
+<hr>
 
 
 ## 🛠 Technology Stack
@@ -199,13 +199,13 @@ As an experienced Python developer with over a year of professional experience, 
   <img src="https://img.shields.io/badge/Join%20Jitsi-Video%20Meeting-9cf" alt="Jitsi Badge">
 </a>
 
-<hr style="color: black;">
+<hr>
 
 ### Example for a  project
 
 <img src="Project_X.png" alt="Slide Screenshot">
 
-<hr style="color: black;">
+<hr>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/hdobosz/github-profile-views-counter">
