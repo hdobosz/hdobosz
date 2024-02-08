@@ -189,7 +189,7 @@ As an experienced Python developer with over a year of professional experience, 
   <img src="https://img.shields.io/badge/Join%20Jitsi-Video%20Meeting-9cf" alt="Jitsi Badge">
 </a>
 <a href="https://cloud.google.com/vertex-ai/" target="_blank">
-  <img src="https://placehold.it/200x200?text=Google%20Vertex%20AI%20Badge" alt="Google Vertex AI Badge">
+  <img src="https://cloud.google.com/vertex-ai/images/vertex-ai-logo.png" alt="Google Vertex AI Badge">
 </a>
 
 
