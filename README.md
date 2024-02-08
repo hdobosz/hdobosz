@@ -192,7 +192,9 @@ As an experienced Python developer with over a year of professional experience, 
 
 <hr>
 ### Example for a  project
+
 <img src="Project_X.png" alt="Slide Screenshot">
+
 <hr>
 
 <div align="center" style="margin: 40px 0">
