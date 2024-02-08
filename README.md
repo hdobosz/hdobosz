@@ -27,7 +27,7 @@ As an experienced Python developer with over a year of professional experience, 
 
 ### Key points
 
-<img src="Project_X.png" alt="Slide Screenshot">
+
 
 
 ---
@@ -191,8 +191,8 @@ As an experienced Python developer with over a year of professional experience, 
 </a>
 
 <hr>
-### My opensource projects
-
+### Example for a  project
+<img src="Project_X.png" alt="Slide Screenshot">
 <hr>
 
 <div align="center" style="margin: 40px 0">
