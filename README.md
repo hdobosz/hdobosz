@@ -23,6 +23,8 @@ As an experienced Python developer with over a year of professional experience, 
    📫 How to reach me: <a href='mailto:hdobosz@freenet.de'>hdobosz@freenet.de</a>
 </p>
 
+<hr>
+
 ### Key Points
 
 - **Professional Summary:** An aspiring Python developer with comprehensive training in various aspects of software development, including:
@@ -34,10 +36,10 @@ As an experienced Python developer with over a year of professional experience, 
   - Cloud Services – 112 hours
   - Final Capstone Project – 168 hours.
 - **Language Skills:** Completed a language course in English, totaling 200 hours. 
-- **Achievements:** Successfully completed the final capstone projects "Mint Easy" and "Project X" as part of the training program.
+- **Achievements:** Successfully completed the final capstone projects "Mint Easy / Project X" as part of the training program.
 
 
-
+<hr>
 
 
 ## 🛠 Technology Stack
