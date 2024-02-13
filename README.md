@@ -9,7 +9,7 @@ As an experienced Python developer with over a year of professional experience, 
            height=150
            src="https://github-readme-stats.vercel.app/api?username=hdobosz&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/hdobosz/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdobosz&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdobosz&layout=compact&hide"/></a>
 </p>
 
 ---
