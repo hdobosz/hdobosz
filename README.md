@@ -5,7 +5,7 @@ As an experienced Python developer with over a year of professional experience, 
 ---
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=hdobosz3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=hdobosz&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=hdobosz&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/hdobosz/github-readme-stats"><img height=150
